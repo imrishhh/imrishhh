@@ -3,7 +3,7 @@
 ### About Me
 Hey, I'm Rishab Karki — an undergraduate CS student passionate about building and learning.
 
-### Area of interest:
+### Area of interest
 - Backend Development
 - System Architecture
 - Linux
