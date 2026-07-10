@@ -13,11 +13,11 @@ Hey, I'm Rishab Karki — an undergraduate CS student passionate about building 
 - Data Structure & Algorithms
 
 ### Dev Environment
-**OS**: Arch Linux (Omarchy)
-**DE**: Hyprland
-**Terminal**: Ghostty
-**Shell**: fish
-**Editor**: Neovim (Primary), VS Code
+**OS**: Arch Linux (Omarchy)  
+**DE**: Hyprland  
+**Terminal**: Ghostty  
+**Shell**: fish  
+**Editor**: Neovim (Primary), VS Code  
 
 ### Currently Working on
 🚧 [GoQueue](https://github.com/imrishhh/goqueue) - A Distributed Job Queue System
