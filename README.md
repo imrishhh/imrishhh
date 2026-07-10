@@ -1,4 +1,4 @@
-## imrishhh
+## imrishabk
 
 ### About Me
 Hey, I'm Rishab Karki — an undergraduate CS student passionate about building and learning.
