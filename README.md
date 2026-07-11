@@ -19,7 +19,5 @@ Hey, I'm Rishab Karki — an undergraduate CS student passionate about building 
 **Shell**: fish  
 **Editor**: Neovim (Primary), VS Code  
 
-![](https://github-readme-stats.shion.dev/api?username=imrishabk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
 ### Currently Working on
 🚧 [GoQueue](https://github.com/imrishhh/goqueue) - A Distributed Job Queue System
