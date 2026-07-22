@@ -20,4 +20,6 @@ Hey, I'm Rishab Karki — an undergraduate CS student passionate about building 
 **Editor**: Neovim (Primary), VS Code  
 
 ### Currently Working on
-🚧 [GoQueue](https://github.com/imrishhh/goqueue) - A Distributed Job Queue System
+🚧 [Kanban Board](https://github.com/imrishabk/kanban-board) - A full stack typescript application
+🚧 [GoQueue](https://github.com/imrishabk/goqueue) - A Distributed Job Queue System
+
