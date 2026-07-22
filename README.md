@@ -21,7 +21,7 @@ Hey, I'm Rishab Karki — an undergraduate CS student passionate about building 
 
 ### Stack
 **Language**: Golang, Typescript, Python, Java, Scala, Rust, C/CPP  
-**Frameworks/Libraries**: Fiber, Chi, Express.js, Vite, React.js, Redux, Next.js, Tailwind CSS, Jest, Fastify, FastAPI, Spring Boots  
+**Frameworks/Libraries**: Fiber, Chi, Express.js, React.js, Redux, Next.js, Tailwind CSS, Jest, Fastify, FastAPI, Spring Boots  
 **DevOps**: Docker, Linux, Azure  
 **Version Control**: Git/Github
 
