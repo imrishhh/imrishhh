@@ -21,11 +21,12 @@ Hey, I'm Rishab Karki — an undergraduate CS student passionate about building 
 
 ### Stack
 **Language**: Golang, Typescript, Python, Java, Scala, Rust, C/CPP  
-**Frameworks/Libraries**: Fiber, Chi, Express.js, React.js, Redux, Next.js, Tailwind CSS, Jest, Fastify, FastAPI, Spring Boots  
+**Frameworks/Libraries**: Fiber, Chi, Express.js, Scikit-learn, React.js, Redux, Next.js, Tailwind CSS, Jest, Fastify, FastAPI, Spring Boots  
 **DevOps**: Docker, Linux, Azure  
 **Version Control**: Git/Github
 
 ### Currently Working on
+🚧 [Spam Detector](https://github.com/imrishabk/spam-detector) - A spam detector model trained using scikit learn
 🚧 [Kanban Board](https://github.com/imrishabk/kanban-board) - A full stack typescript application  
 🚧 [GoQueue](https://github.com/imrishabk/goqueue) - A Distributed Job Queue System
 
