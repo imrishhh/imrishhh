@@ -4,12 +4,11 @@
 Hey, I'm Rishab Karki — an undergraduate CS student passionate about building and learning.
 
 ### Area of interest
-- Backend Development
+- AI & Backend
+- Machine Learning
 - System Architecture
 - Linux
-- Artificial Intelligence (Machine Learning to be specific)
-- Cybersecurity
-- System Programming
+- Security
 - Data Structure & Algorithms
 
 ### Dev Environment
@@ -20,10 +19,7 @@ Hey, I'm Rishab Karki — an undergraduate CS student passionate about building 
 **Editor**: Neovim (Primary), VS Code
 
 ### Stack
-**Language**: Golang, Typescript, Python, Java, Scala, Rust, C/CPP  
-**Frameworks/Libraries**: Fiber, Chi, Express.js, Scikit-learn, React.js, Redux, Next.js, Tailwind CSS, Jest, Fastify, FastAPI, Spring Boots  
-**DevOps**: Docker, Linux, Azure  
-**Version Control**: Git/Github
+Golang, Python, Java, Typescript, Rust, C/CPP, Fiber, Chi, Scikit-learn, FastAPI, Spring Boots, Express.js, React.js, Next.js, Tailwind CSS, Docker, Linux, Azure, Git & Github
 
 ### Currently Working on
 🚧 [Spam Detector](https://github.com/imrishabk/spam-detector) - A spam detector model trained using scikit learn  
