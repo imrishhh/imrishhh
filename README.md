@@ -30,5 +30,5 @@ Golang, Python, Java, Typescript, Rust, C/CPP, Fiber, Chi, Scikit-learn, FastAPI
 🚧 [GoQueue](https://github.com/imrishabk/goqueue) - A Distributed Job Queue System
 
 ### Completed
-✅ [InsightRAG](https://github.com/imrishabk/insightrag) - A Chatbot which answers based on the uploaded PDF  
+✅ [InsightRAG](https://github.com/imrishabk/insightrag) - A Chatbot which answers based on the uploaded PDF (Backend only)  
 ✅ [Spam Detector](https://github.com/imrishabk/spam-detector) - A spam detector model trained using scikit learn  
